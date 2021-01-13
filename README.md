@@ -1,1008 +1,1008 @@
 # Brew Packages
 
-1. abcm2ps
-2. abyss
-3. ace
-4. activemq
-5. advancecomp
-6. advancemame
-7. adwaita-icon-theme
-8. agda
-9. aha
-10. akamai
-11. algernon
-12. allure
-13. alluxio
-14. amazon-ecs-cli
-15. ammonite-repl
-16. amqp-cpp
-17. angular-cli
-18. annie
-19. ansible
-20. ansible-cmdb
-21. ansifilter
-22. antlr
-23. antlr@2
-24. apache-arrow
-25. apache-arrow-glib
-26. apache-flink
-27. apache-spark
-28. app-engine-java
-29. aptly
-30. arangodb
-31. arcade-learning-environment
-32. ark
-33. armadillo
-34. armor
-35. arx
-36. asciidoc
-37. asciidoctor
-38. asdf
-39. aspectj
-40. atdtool
-41. aubio
-42. augustus
-43. autopep8
-44. aws-elasticbeanstalk
-45. aws-es-proxy
-46. aws-sdk-cpp
-47. awscli
-48. awslogs
-49. azure-cli
-50. b2-tools
-51. babel
-52. ballerina
-53. basex
-54. bash-snippets
-55. bat
-56. bazel
-57. bde
-58. bdw-gc
-59. beagle
-60. beast
-61. bento4
-62. bettercap
-63. bgpdump
-64. bgpq3
-65. binaryen
-66. bind
-67. binutils
-68. binwalk
-69. bison
-70. bitcoin
-71. bitrise
-72. bitwarden-cli
-73. bluepill
-74. blueutil
-75. bmake
-76. bnd
-77. boost
-78. boost-bcp
-79. boost-build
-80. boost-mpi
-81. boost-python
-82. boost-python3
-83. botan
-84. bowtie2
-85. braid
-86. brogue
-87. brotli
-88. btfs
-89. buildifier
-90. buku
-91. bundletool
-92. bup
-93. byteman
-94. bzt
-95. c-ares
-96. c10t
-97. cabal-install
-98. caddy
-99. caf
-100. caffe
-101. cairo
-102. calc
-103. camlp5
-104. cargo-completion
-105. carla
-106. carthage
-107. cassandra
-108. cayley
-109. ccache
-110. ccextractor
-111. cclive
-112. ccm
-113. cern-ndiff
-114. certbot
-115. certigo
-116. cglm
-117. chakra
-118. chamber
-119. cheat
-120. checkbashisms
-121. checkstyle
-122. chicken
-123. chisel
-124. choose
-125. chrome-export
-126. chronograf
-127. chruby-fish
-128. circleci
-129. citus
-130. ckan
-131. clang-format
-132. cling
-133. clojure
-134. clojurescript
-135. closure-compiler
-136. cmake
-137. cmark-gfm
-138. cmdshelf
-139. cnats
-140. cockroach
-141. codemod
-142. collectd
-143. collector-sidecar
-144. commandbox
-145. composer
-146. conan
-147. configen
-148. confluent-oss
-149. console_bridge
-150. consul
-151. container-diff
-152. convox
-153. cookiecutter
-154. coq
-155. couchdb
-156. cpanminus
-157. cppcheck
-158. cpprestsdk
-159. crc32c
-160. credstash
-161. cromwell
-162. crosstool-ng
-163. crowdin
-164. crystal
-165. crystal-icr
-166. cucumber-cpp
-167. curaengine
-168. curl
-169. cvs2svn
-170. cython
-171. dart-lang/dart/dart
-172. dartsim
-173. dash
-174. dateutils
-175. davix
-176. dbhash
-177. dcd
-178. dcm2niix
-179. ddgr
-180. dependency-check
-181. dfmt
-182. dhall-json
-183. dialog
-184. diff-pdf
-185. diffoscope
-186. digdag
-187. digitemp
-188. direnv
-189. dita-ot
-190. django-completion
-191. dlib
-192. dmd
-193. dnscrypt-proxy
-194. dnsmasq
-195. dnstwist
-196. docfx
-197. docker
-198. docker-completion
-199. docker-compose
-200. docker-compose-completion
-201. docker-credential-helper-ecr
-202. docker-ls
-203. docker-machine
-204. docker-machine-completion
-205. docker-machine-driver-xhyve
-206. docker-squash
-207. doctl
-208. docutils
-209. doitlive
-210. dscanner
-211. dub
-212. duc
-213. duo_unix
-214. duplicity
-215. dwdiff
-216. dynare
-217. editorconfig
-218. ejabberd
-219. elasticsearch
-220. elektra
-221. elixir
-222. embulk
-223. emscripten
-224. eprover
-225. epubcheck
-226. eralchemy
-227. erlang
-228. erlang@17
-229. erlang@18
-230. erlang@19
-231. erlang@20
-232. eslint
-233. etcd
-234. ethereum
-235. euler-py
-236. evince
-237. exercism
-238. exploitdb
-239. eye-d3
-240. faas-cli
-241. fabio
-242. fabric
-243. fatsort
-244. fbi-servefiles
-245. fd
-246. fdk-aac
-247. fdk-aac-encoder
-248. feedgnuplot
-249. feh
-250. ffmpeg
-251. ffmpeg@2.8
-252. field3d
-253. file-formula
-254. fio
-255. firebase-cli
-256. flake8
-257. flann
-258. fluent-bit
-259. flume
-260. flyway
-261. fmpp
-262. fmt
-263. fn
-264. fobis
-265. folly
-266. fonttools
-267. ford
-268. fork-cleaner
-269. fping
-270. fq
-271. freeciv
-272. freeling
-273. freetds
-274. freetds@0.91
-275. frugal
-276. fruit
-277. fselect
-278. fswatch
-279. fuseki
-280. futhark
-281. fwup
-282. gandi.cli
-283. gauge
-284. gcc@6
-285. gdb
-286. gdbm
-287. gecode
-288. gedit
-289. genometools
-290. geos
-291. getdns
-292. gexiv2
-293. gflags
-294. ghc
-295. ghostscript
-296. gimme
-297. git
-298. git-annex
-299. git-archive-all
-300. git-cinnabar
-301. git-lfs
-302. git-open
-303. git-quick-stats
-304. git-recent
-305. git-review
-306. git-standup
-307. git-subrepo
-308. gitbucket
-309. gitfs
-310. gitg
-311. gitlab-gem
-312. gitlab-runner
-313. gitless
-314. gitversion
-315. gjs
-316. glibmm
-317. glm
-318. global
-319. globjects
-320. glslang
-321. gmime
-322. gmsh
-323. gmt
-324. gmt@4
-325. gnome-latex
-326. gnu-units
-327. gnupg
-328. gnuplot
-329. gnuradio
-330. go
-331. go-bindata
-332. go-statik
-333. goaccess
-334. gobject-introspection
-335. godep
-336. goenv
-337. goffice
-338. golang-migrate
-339. googler
-340. goolabs
-341. gopass
-342. goreleaser
-343. gosu
-344. gowsdl
-345. gpa
-346. gpgme
-347. gphoto2
-348. gprof2dot
-349. gr-osmosdr
-350. gradio
-351. gradle
-352. grafana
-353. grails
-354. graph-tool
-355. graphicsmagick
-356. grib-api
-357. grip
-358. groovy
-359. groovysdk
-360. grpc
-361. grunt-cli
-362. grunt-completion
-363. gst-plugins-good
-364. gst-plugins-ugly
-365. gtkmm3
-366. gtkspell3
-367. gucharmap
-368. gupnp-av
-369. gwyddion
-370. hadolint
-371. hapi-fhir-cli
-372. harfbuzz
-373. hashpump
-374. haskell-stack
-375. haste-client
-376. hbase
-377. hcloud
-378. hdf5
-379. hdf5@1.8
-380. hebcal
-381. helmfile
-382. help2man
-383. heroku/brew/heroku
-384. heroku/brew/heroku-node
-385. hfstospell
-386. highlight
-387. hiredis
-388. hive
-389. hmmer
-390. homebank
-391. honcho
-392. howdoi
-393. httpd
-394. httpie
-395. hub
-396. hugo
-397. hunspell
-398. hyperfine
-399. i2pd
-400. ibex
-401. icdiff
-402. icecream
-403. icu4c
-404. idris
-405. ike-scan
-406. imagemagick
-407. imagemagick@6
-408. imageoptim-cli
-409. imageworsener
-410. imapfilter
-411. influxdb
-412. innotop
-413. inspircd
-414. instead
-415. internetarchive
-416. ioping
-417. ios-deploy
-418. ios-webkit-debug-proxy
-419. ipfs
-420. iproute2mac
-421. ipython
-422. jabba
-423. jansson
-424. jbake
-425. jbig2dec
-426. jdnssec-tools
-427. jdupes
-428. jenkins
-429. jenkins-job-builder
-430. jenkins-lts
-431. jetty
-432. jflex
-433. jfrog-cli-go
-434. jhipster
-435. joplin
-436. jq
-437. jrnl
-438. json-fortran
-439. jsonrpc-glib
-440. juju
-441. jump
-442. just
-443. kafka
-444. kakoune
-445. kallisto
-446. khal
-447. kibana
-448. kibana@5.6
-449. kitchen-sync
-450. knot
-451. kobalt
-452. kompose
-453. konoha
-454. kotlin
-455. krakend
-456. krb5
-457. kube-aws
-458. kubectx
-459. kubeless
-460. kubernetes-cli
-461. kubernetes-service-catalog-client
-462. kustomize
-463. lablgtk
-464. landscaper
-465. lasso
-466. lastpass-cli
-467. laszip
-468. latex2html
-469. latexdiff
-470. lcm
-471. ldc
-472. lean-cli
-473. ledger
-474. legit
-475. lego
-476. lgogdownloader
-477. libav
-478. libbi
-479. libbitcoin
-480. libbitcoin-blockchain
-481. libbitcoin-client
-482. libbitcoin-database
-483. libbitcoin-explorer
-484. libbitcoin-network
-485. libbitcoin-node
-486. libbitcoin-protocol
-487. libbitcoin-server
-488. libbtbb
-489. libcdr
-490. libcec
-491. libcouchbase
-492. libdill
-493. liberasurecode
-494. libextractor
-495. libfabric
-496. libfreehand
-497. libgcrypt
-498. libgda
-499. libgit2
-500. libgit2-glib
-501. libgosu
-502. libgphoto2
-503. libhttpserver
-504. libical
-505. libimagequant
-506. libjson-rpc-cpp
-507. liblcf
-508. liblo
-509. libmagic
-510. libmatio
-511. libmspub
-512. libmxml
-513. libomp
-514. libopendkim
-515. libopusenc
-516. libphonenumber
-517. libplctag
-518. libplist
-519. libpq
-520. libpqxx
-521. libproxy
-522. libpst
-523. libqalculate
-524. librdkafka
-525. librealsense
-526. libressl
-527. librsvg
-528. libsass
-529. libsecret
-530. libsigc++
-531. libsoup
-532. libspectre
-533. libssh
-534. libswiften
-535. libtcod
-536. libtensorflow
-537. libtiff
-538. libtorrent-rasterbar
-539. libuv
-540. libvirt
-541. libvisio
-542. libvoikko
-543. libwebsockets
-544. libxlsxwriter
-545. libxml2
-546. lighttpd
-547. linkerd
-548. livestreamer
-549. llvm
-550. llvm@3.9
-551. llvm@4
-552. llvm@5
-553. llvm@6
-554. lmod
-555. logstash
-556. logtalk
-557. lolcat
-558. lumo
-559. luvit
-560. lxc
-561. lynis
-562. mackup
-563. macvim
-564. magic-wormhole
-565. mame
-566. mandoc
-567. mapnik
-568. mapserver
-569. mariadb
-570. mariadb@10.0
-571. mariadb@10.1
-572. mariadb@10.2
-573. mas
-574. math-comp
-575. maven
-576. maxwell
-577. mdcat
-578. mdp
-579. mdv
-580. megacmd
-581. memcached
-582. mercurial
-583. meson
-584. metaproxy
-585. micronaut
-586. mikutter
-587. mill
-588. miller
-589. mimic
-590. minio
-591. minio-mc
-592. miniserve
-593. minizinc
-594. mitie
-595. mkdocs
-596. mkl-dnn
-597. mkvtoolnix
-598. mlt
-599. mmseqs2
-600. mockserver
-601. monero
-602. monetdb
-603. mongo-c-driver
-604. mongo-cxx-driver
-605. mongo-orchestration
-606. mongodb
-607. mongodb@3.4
-608. mongodb@3.6
-609. mongoose
-610. mosquitto
-611. mpc
-612. mpd
-613. mpich
-614. mps-youtube
-615. mpv
-616. muparser
-617. mupdf
-618. mupdf-tools
-619. mysql@5.5
-620. mysql@5.6
-621. mysql@5.7
-622. mysqltuner
-623. n
-624. nailgun
-625. nano
-626. nanomsg
-627. nasm
-628. nativefier
-629. nats-streaming-server
-630. ncmpcpp
-631. nco
-632. ncview
-633. ne
-634. neo4j
-635. netcdf
-636. netdata
-637. netpbm
-638. newsboat
-639. nexus
-640. nghttp2
-641. nginx
-642. ngspice
-643. nifi
-644. nng
-645. nnn
-646. node
-647. node-build
-648. node@6
-649. node@8
-650. nodeenv
-651. nsd
-652. nss
-653. numpy
-654. nyx
-655. ocaml
-656. ocaml-num
-657. ocamlbuild
-658. ocamlsdl
-659. ocrmypdf
-660. octave
-661. odpi
-662. opam
-663. open-mpi
-664. open-scene-graph
-665. openapi-generator
-666. opencascade
-667. opencoarrays
-668. opencv@2
-669. openfortivpn
-670. openimageio
-671. openrct2
-672. openrtsp
-673. openshift-cli
-674. openssh
-675. openssl
-676. openssl@1.1
-677. openvdb
-678. opus
-679. opus-tools
-680. opusfile
-681. osm2pgrouting
-682. osquery
-683. osrm-backend
-684. oysttyer
-685. pacapt
-686. packer
-687. paket
-688. pandoc
-689. pandoc-citeproc
-690. pangomm
-691. parallel
-692. parallelstl
-693. passenger
-694. passpie
-695. payara
-696. pazpar2
-697. pcl
-698. pdal
-699. pdfpc
-700. pdftoedn
-701. pdftoipe
-702. percol
-703. percona-server
-704. percona-server@5.6
-705. percona-toolkit
-706. pgcli
-707. pgformatter
-708. pgroonga
-709. phoronix-test-suite
-710. php
-711. php-cs-fixer
-712. php@5.6
-713. php@7.0
-714. php@7.1
-715. phpunit
-716. picard-tools
-717. picat
-718. pijul
-719. pike
-720. pip-completion
-721. pipenv
-722. pius
-723. pktanon
-724. planck
-725. plantuml
-726. platformio
-727. pmd
-728. ponyc
-729. poppler
-730. portmidi
-731. posh
-732. postgresql
-733. ppsspp
-734. pqiv
-735. pre-commit
-736. presto
-737. prettier
-738. primesieve
-739. prips
-740. prometheus
-741. proselint
-742. protobuf
-743. ps2eps
-744. pspg
-745. pulumi
-746. pumba
-747. purescript
-748. pwntools
-749. py2cairo
-750. py3cairo
-751. pyenv
-752. pygobject3
-753. pyinvoke
-754. python
-755. python-markdown
-756. q
-757. qcli
-758. qmmp
-759. qt
-760. quicktype
-761. rabbitmq
-762. radare2
-763. rakudo-star
-764. rancher-cli
-765. range-v3
-766. rbspy
-767. rclone
-768. rdesktop
-769. re2
-770. rebar3
-771. recon-ng
-772. redis
-773. redo
-774. remarshal
-775. restic
-776. restview
-777. rmlint
-778. rom-tools
-779. root
-780. roswell
-781. rst-lint
-782. rtags
-783. ruby
-784. ruby-build
-785. ruby@2.3
-786. rust
-787. rustup-init
-788. s-search
-789. s3cmd
-790. safe
-791. sagittarius-scheme
-792. sass/sass/sass
-793. sbcl
-794. sbt
-795. sbt@0.13
-796. scalaenv
-797. sceptre
-798. scipy
-799. scour
-800. scrcpy
-801. sdb
-802. sdcc
-803. sdl2
-804. sdl2_image
-805. sdl2_mixer
-806. sec
-807. selenium-server-standalone
-808. serverless
-809. sfcgal
-810. shadowsocks-libev
-811. shairport-sync
-812. shc
-813. shellcheck
-814. shfmt
-815. shibboleth-sp
-816. shocco
-817. shogun
-818. sile
-819. simple-amqp-client
-820. sip
-821. skaffold
-822. skafos
-823. sleuthkit
-824. smimesign
-825. snapcraft
-826. snappystream
-827. snapraid
-828. sngrep
-829. softhsm
-830. sonarqube
-831. sops
-832. source-highlight
-833. source-to-image
-834. sourcekitten
-835. spades
-836. spdlog
-837. sphinx-doc
-838. spotbugs
-839. sqlcipher
-840. sqldiff
-841. sqlite
-842. sqlite-analyzer
-843. sqlmap
-844. sqlparse
-845. sratoolkit
-846. ssh-copy-id
-847. sshconfigfs
-848. sshuttle
-849. sslmate
-850. sslscan
-851. statik
-852. stern
-853. stgit
-854. stockfish
-855. stormpath-cli
-856. stormssh
-857. streamlink
-858. stubby
-859. sundials
-860. suricata
-861. svtplay-dl
-862. swagger-codegen
-863. swift
-864. swift-protobuf
-865. swiftformat
-866. swiftlint
-867. swimat
-868. sync_gateway
-869. syncthing
-870. sysdig
-871. tarantool
-872. tarsnapper
-873. tbb
-874. tcpreplay
-875. tectonic
-876. telegraf
-877. teleport
-878. tepl
-879. termius
-880. termrec
-881. terraform
-882. terraform_landscape
-883. terraform-docs
-884. terragrunt
-885. tesseract
-886. testssl
-887. tgui
-888. thefuck
-889. theharvester
-890. thors-serializer
-891. tika
-892. tile38
-893. tinc
-894. tinyproxy
-895. tinyxml2
-896. tippecanoe
-897. tmux
-898. tmuxinator-completion
-899. tomcat
-900. tomcat@7
-901. tomcat@8
-902. topgrade
-903. tor
-904. tox
-905. traefik
-906. translate-toolkit
-907. trash-cli
-908. travis
-909. tree
-910. treefrog
-911. tty-solitaire
-912. ttyd
-913. tundra
-914. tunnel
-915. tup
-916. tvnamer
-917. twarc
-918. twine-pypi
-919. typescript
-920. ucloud
-921. uhd
-922. unbound
-923. uncrustify
-924. unoconv
-925. unshield
-926. upscaledb
-927. urdfdom_headers
-928. uriparser
-929. uru
-930. urweb
-931. v8
-932. vagrant-completion
-933. vala
-934. valgrind
-935. vapoursynth
-936. varnish
-937. vault
-938. vaulted
-939. vegeta
-940. vert.x
-941. vfuse
-942. vim
-943. vim@7.4
-944. vips
-945. vnu
-946. voldemort
-947. vsts-cli
-948. vte3
-949. vtk
-950. wabt
-951. wakatime-cli
-952. wallpaper
-953. wartremover
-954. watchman
-955. watson
-956. wcslib
-957. weaver
-958. webp
-959. webpack
-960. weechat
-961. wesnoth
-962. wget
-963. when
-964. whois
-965. widelands
-966. wine
-967. winetricks
-968. wireguard-go
-969. wireguard-tools
-970. wireshark
-971. wolfssl
-972. wskdeploy
-973. wtf
-974. wxmaxima
-975. xcodegen
-976. xctool
-977. xmake
-978. xml-tooling-c
-979. xmrig
-980. xonsh
-981. xsimd
-982. xtensor
-983. yaml-cpp
-984. yamllint
-985. yank
-986. yara
-987. yarn
-988. yasm
-989. yaz
-990. ydcv
-991. ykman
-992. yle-dl
-993. yosys
-994. you-get
-995. youtube-dl
-996. yq
-997. z3
-998. zanata-client
-999. zebra
-1000. zimg
-1001. zookeeper
-1002. zorba
-1003. zsh
-1004. zsh-autosuggestions
-1005. zsh-completions
-1006. zstd
+[ ] abcm2ps
+[ ] abyss
+[ ] ace
+[ ] activemq
+[ ] advancecomp
+[ ] advancemame
+[ ] adwaita-icon-theme
+[ ] agda
+[ ] aha
+[ ] akamai
+[ ] algernon
+[ ] allure
+[ ] alluxio
+[ ] amazon-ecs-cli
+[ ] ammonite-repl
+[ ] amqp-cpp
+[ ] angular-cli
+[ ] annie
+[ ] ansible
+[ ] ansible-cmdb
+[ ] ansifilter
+[ ] antlr
+[ ] antlr@2
+[ ] apache-arrow
+[ ] apache-arrow-glib
+[ ] apache-flink
+[ ] apache-spark
+[ ] app-engine-java
+[ ] aptly
+[ ] arangodb
+[ ] arcade-learning-environment
+[ ] ark
+[ ] armadillo
+[ ] armor
+[ ] arx
+[ ] asciidoc
+[ ] asciidoctor
+[ ] asdf
+[ ] aspectj
+[ ] atdtool
+[ ] aubio
+[ ] augustus
+[ ] autopep8
+[ ] aws-elasticbeanstalk
+[ ] aws-es-proxy
+[ ] aws-sdk-cpp
+[x] awscli
+[ ] awslogs
+[ ] azure-cli
+[ ] b2-tools
+[ ] babel
+[ ] ballerina
+[ ] basex
+[ ] bash-snippets
+[ ] bat
+[ ] bazel
+[ ] bde
+[ ] bdw-gc
+[ ] beagle
+[ ] beast
+[ ] bento4
+[ ] bettercap
+[ ] bgpdump
+[ ] bgpq3
+[ ] binaryen
+[ ] bind
+[ ] binutils
+[ ] binwalk
+[ ] bison
+[ ] bitcoin
+[ ] bitrise
+[ ] bitwarden-cli
+[ ] bluepill
+[ ] blueutil
+[ ] bmake
+[ ] bnd
+[ ] boost
+[ ] boost-bcp
+[ ] boost-build
+[ ] boost-mpi
+[ ] boost-python
+[ ] boost-python3
+[ ] botan
+[ ] bowtie2
+[ ] braid
+[ ] brogue
+[ ] brotli
+[ ] btfs
+[ ] buildifier
+[ ] buku
+[ ] bundletool
+[ ] bup
+[ ] byteman
+[ ] bzt
+[ ] c-ares
+[ ] c10t
+[ ] cabal-install
+[ ] caddy
+[ ] caf
+[ ] caffe
+[ ] cairo
+[ ] calc
+[ ] camlp5
+[ ] cargo-completion
+[ ] carla
+[ ] carthage
+[ ] cassandra
+[ ] cayley
+[ ] ccache
+[ ] ccextractor
+[ ] cclive
+[ ] ccm
+[ ] cern-ndiff
+[ ] certbot
+[ ] certigo
+[ ] cglm
+[ ] chakra
+[ ] chamber
+[ ] cheat
+[ ] checkbashisms
+[ ] checkstyle
+[ ] chicken
+[ ] chisel
+[ ] choose
+[ ] chrome-export
+[ ] chronograf
+[ ] chruby-fish
+[ ] circleci
+[ ] citus
+[ ] ckan
+[ ] clang-format
+[ ] cling
+[ ] clojure
+[ ] clojurescript
+[ ] closure-compiler
+[ ] cmake
+[ ] cmark-gfm
+[ ] cmdshelf
+[ ] cnats
+[ ] cockroach
+[ ] codemod
+[ ] collectd
+[ ] collector-sidecar
+[ ] commandbox
+[ ] composer
+[ ] conan
+[ ] configen
+[ ] confluent-oss
+[ ] console_bridge
+[ ] consul
+[ ] container-diff
+[ ] convox
+[ ] cookiecutter
+[ ] coq
+[ ] couchdb
+[ ] cpanminus
+[ ] cppcheck
+[ ] cpprestsdk
+[ ] crc32c
+[ ] credstash
+[ ] cromwell
+[ ] crosstool-ng
+[ ] crowdin
+[ ] crystal
+[ ] crystal-icr
+[ ] cucumber-cpp
+[ ] curaengine
+[ ] curl
+[ ] cvs2svn
+[ ] cython
+[ ] dart-lang/dart/dart
+[ ] dartsim
+[ ] dash
+[ ] dateutils
+[ ] davix
+[ ] dbhash
+[ ] dcd
+[ ] dcm2niix
+[ ] ddgr
+[ ] dependency-check
+[ ] dfmt
+[ ] dhall-json
+[ ] dialog
+[ ] diff-pdf
+[ ] diffoscope
+[ ] digdag
+[ ] digitemp
+[ ] direnv
+[ ] dita-ot
+[ ] django-completion
+[ ] dlib
+[ ] dmd
+[ ] dnscrypt-proxy
+[ ] dnsmasq
+[ ] dnstwist
+[ ] docfx
+[x] docker
+[ ] docker-completion
+[ ] docker-compose
+[ ] docker-compose-completion
+[ ] docker-credential-helper-ecr
+[ ] docker-ls
+[ ] docker-machine
+[ ] docker-machine-completion
+[ ] docker-machine-driver-xhyve
+[ ] docker-squash
+[ ] doctl
+[ ] docutils
+[ ] doitlive
+[ ] dscanner
+[ ] dub
+[ ] duc
+[ ] duo_unix
+[ ] duplicity
+[ ] dwdiff
+[ ] dynare
+[ ] editorconfig
+[ ] ejabberd
+[x] elasticsearch
+[ ] elektra
+[ ] elixir
+[ ] embulk
+[ ] emscripten
+[ ] eprover
+[ ] epubcheck
+[ ] eralchemy
+[ ] erlang
+[ ] erlang@17
+[ ] erlang@18
+[ ] erlang@19
+[ ] erlang@20
+[ ] eslint
+[ ] etcd
+[ ] ethereum
+[ ] euler-py
+[ ] evince
+[ ] exercism
+[ ] exploitdb
+[ ] eye-d3
+[ ] faas-cli
+[ ] fabio
+[ ] fabric
+[ ] fatsort
+[ ] fbi-servefiles
+[ ] fd
+[ ] fdk-aac
+[ ] fdk-aac-encoder
+[ ] feedgnuplot
+[ ] feh
+[ ] ffmpeg
+[ ] ffmpeg@2.8
+[ ] field3d
+[ ] file-formula
+[ ] fio
+[x] firebase-cli
+[ ] flake8
+[ ] flann
+[ ] fluent-bit
+[ ] flume
+[ ] flyway
+[ ] fmpp
+[ ] fmt
+[ ] fn
+[ ] fobis
+[ ] folly
+[ ] fonttools
+[ ] ford
+[ ] fork-cleaner
+[ ] fping
+[ ] fq
+[ ] freeciv
+[ ] freeling
+[ ] freetds
+[ ] freetds@0.91
+[ ] frugal
+[ ] fruit
+[ ] fselect
+[ ] fswatch
+[ ] fuseki
+[ ] futhark
+[ ] fwup
+[ ] gandi.cli
+[ ] gauge
+[ ] gcc@6
+[ ] gdb
+[ ] gdbm
+[ ] gecode
+[ ] gedit
+[ ] genometools
+[ ] geos
+[ ] getdns
+[ ] gexiv2
+[ ] gflags
+[ ] ghc
+[ ] ghostscript
+[ ] gimme
+[ ] git
+[ ] git-annex
+[ ] git-archive-all
+[ ] git-cinnabar
+[ ] git-lfs
+[ ] git-open
+[ ] git-quick-stats
+[ ] git-recent
+[ ] git-review
+[ ] git-standup
+[ ] git-subrepo
+[ ] gitbucket
+[ ] gitfs
+[ ] gitg
+[ ] gitlab-gem
+[ ] gitlab-runner
+[ ] gitless
+[ ] gitversion
+[ ] gjs
+[ ] glibmm
+[ ] glm
+[ ] global
+[ ] globjects
+[ ] glslang
+[ ] gmime
+[ ] gmsh
+[ ] gmt
+[ ] gmt@4
+[ ] gnome-latex
+[ ] gnu-units
+[ ] gnupg
+[ ] gnuplot
+[ ] gnuradio
+[x] go
+[ ] go-bindata
+[ ] go-statik
+[ ] goaccess
+[ ] gobject-introspection
+[ ] godep
+[ ] goenv
+[ ] goffice
+[ ] golang-migrate
+[ ] googler
+[ ] goolabs
+[ ] gopass
+[ ] goreleaser
+[ ] gosu
+[ ] gowsdl
+[ ] gpa
+[ ] gpgme
+[ ] gphoto2
+[ ] gprof2dot
+[ ] gr-osmosdr
+[ ] gradio
+[ ] gradle
+[ ] grafana
+[ ] grails
+[ ] graph-tool
+[ ] graphicsmagick
+[ ] grib-api
+[ ] grip
+[ ] groovy
+[ ] groovysdk
+[ ] grpc
+[x] grunt-cli
+[ ] grunt-completion
+[ ] gst-plugins-good
+[ ] gst-plugins-ugly
+[ ] gtkmm3
+[ ] gtkspell3
+[ ] gucharmap
+[ ] gupnp-av
+[ ] gwyddion
+[ ] hadolint
+[ ] hapi-fhir-cli
+[ ] harfbuzz
+[ ] hashpump
+[ ] haskell-stack
+[ ] haste-client
+[ ] hbase
+[ ] hcloud
+[ ] hdf5
+[ ] hdf5@1.8
+[ ] hebcal
+[ ] helmfile
+[ ] help2man
+[x] heroku/brew/heroku
+[x] heroku/brew/heroku-node
+[ ] hfstospell
+[ ] highlight
+[ ] hiredis
+[ ] hive
+[ ] hmmer
+[ ] homebank
+[ ] honcho
+[ ] howdoi
+[ ] httpd
+[ ] httpie
+[ ] hub
+[ ] hugo
+[ ] hunspell
+[ ] hyperfine
+[ ] i2pd
+[ ] ibex
+[ ] icdiff
+[ ] icecream
+[ ] icu4c
+[ ] idris
+[ ] ike-scan
+[ ] imagemagick
+[ ] imagemagick@6
+[ ] imageoptim-cli
+[ ] imageworsener
+[ ] imapfilter
+[ ] influxdb
+[ ] innotop
+[ ] inspircd
+[ ] instead
+[ ] internetarchive
+[ ] ioping
+[ ] ios-deploy
+[ ] ios-webkit-debug-proxy
+[ ] ipfs
+[ ] iproute2mac
+[ ] ipython
+[ ] jabba
+[ ] jansson
+[ ] jbake
+[ ] jbig2dec
+[ ] jdnssec-tools
+[ ] jdupes
+[x] jenkins
+[ ] jenkins-job-builder
+[ ] jenkins-lts
+[ ] jetty
+[ ] jflex
+[ ] jfrog-cli-go
+[ ] jhipster
+[ ] joplin
+[ ] jq
+[ ] jrnl
+[ ] json-fortran
+[ ] jsonrpc-glib
+[ ] juju
+[ ] jump
+[ ] just
+[x] kafka
+[ ] kakoune
+[ ] kallisto
+[ ] khal
+[ ] kibana
+[ ] kibana@5.6
+[ ] kitchen-sync
+[ ] knot
+[ ] kobalt
+[ ] kompose
+[ ] konoha
+[x] kotlin
+[ ] krakend
+[ ] krb5
+[ ] kube-aws
+[ ] kubectx
+[ ] kubeless
+[x] kubernetes-cli
+[ ] kubernetes-service-catalog-client
+[ ] kustomize
+[ ] lablgtk
+[ ] landscaper
+[ ] lasso
+[ ] lastpass-cli
+[ ] laszip
+[ ] latex2html
+[ ] latexdiff
+[ ] lcm
+[ ] ldc
+[ ] lean-cli
+[ ] ledger
+[ ] legit
+[ ] lego
+[ ] lgogdownloader
+[ ] libav
+[ ] libbi
+[ ] libbitcoin
+[ ] libbitcoin-blockchain
+[ ] libbitcoin-client
+[ ] libbitcoin-database
+[ ] libbitcoin-explorer
+[ ] libbitcoin-network
+[ ] libbitcoin-node
+[ ] libbitcoin-protocol
+[ ] libbitcoin-server
+[ ] libbtbb
+[ ] libcdr
+[ ] libcec
+[ ] libcouchbase
+[ ] libdill
+[ ] liberasurecode
+[ ] libextractor
+[ ] libfabric
+[ ] libfreehand
+[ ] libgcrypt
+[ ] libgda
+[ ] libgit2
+[ ] libgit2-glib
+[ ] libgosu
+[ ] libgphoto2
+[ ] libhttpserver
+[ ] libical
+[ ] libimagequant
+[ ] libjson-rpc-cpp
+[ ] liblcf
+[ ] liblo
+[ ] libmagic
+[ ] libmatio
+[ ] libmspub
+[ ] libmxml
+[ ] libomp
+[ ] libopendkim
+[ ] libopusenc
+[ ] libphonenumber
+[ ] libplctag
+[ ] libplist
+[ ] libpq
+[ ] libpqxx
+[ ] libproxy
+[ ] libpst
+[ ] libqalculate
+[ ] librdkafka
+[ ] librealsense
+[ ] libressl
+[ ] librsvg
+[ ] libsass
+[ ] libsecret
+[ ] libsigc++
+[ ] libsoup
+[ ] libspectre
+[ ] libssh
+[ ] libswiften
+[ ] libtcod
+[ ] libtensorflow
+[ ] libtiff
+[ ] libtorrent-rasterbar
+[ ] libuv
+[ ] libvirt
+[ ] libvisio
+[ ] libvoikko
+[ ] libwebsockets
+[ ] libxlsxwriter
+[ ] libxml2
+[ ] lighttpd
+[ ] linkerd
+[ ] livestreamer
+[ ] llvm
+[ ] llvm@3.9
+[ ] llvm@4
+[ ] llvm@5
+[ ] llvm@6
+[ ] lmod
+[ ] logstash
+[ ] logtalk
+[ ] lolcat
+[ ] lumo
+[ ] luvit
+[ ] lxc
+[ ] lynis
+[ ] mackup
+[ ] macvim
+[ ] magic-wormhole
+[ ] mame
+[ ] mandoc
+[ ] mapnik
+[ ] mapserver
+[x] mariadb
+[ ] mariadb@10.0
+[ ] mariadb@10.1
+[ ] mariadb@10.2
+[ ] mas
+[ ] math-comp
+[ ] maven
+[ ] maxwell
+[ ] mdcat
+[ ] mdp
+[ ] mdv
+[ ] megacmd
+[ ] memcached
+[ ] mercurial
+[ ] meson
+[ ] metaproxy
+[ ] micronaut
+[ ] mikutter
+[ ] mill
+[ ] miller
+[ ] mimic
+[ ] minio
+[ ] minio-mc
+[ ] miniserve
+[ ] minizinc
+[ ] mitie
+[ ] mkdocs
+[ ] mkl-dnn
+[ ] mkvtoolnix
+[ ] mlt
+[ ] mmseqs2
+[ ] mockserver
+[ ] monero
+[ ] monetdb
+[ ] mongo-c-driver
+[ ] mongo-cxx-driver
+[ ] mongo-orchestration
+[x] mongodb
+[ ] mongodb@3.4
+[ ] mongodb@3.6
+[x] mongoose
+[ ] mosquitto
+[ ] mpc
+[ ] mpd
+[ ] mpich
+[ ] mps-youtube
+[ ] mpv
+[ ] muparser
+[ ] mupdf
+[ ] mupdf-tools
+[ ] mysql@5.5
+[ ] mysql@5.6
+[x] mysql@5.7
+[ ] mysqltuner
+[ ] n
+[ ] nailgun
+[ ] nano
+[ ] nanomsg
+[ ] nasm
+[ ] nativefier
+[ ] nats-streaming-server
+[ ] ncmpcpp
+[ ] nco
+[ ] ncview
+[ ] ne
+[ ] neo4j
+[ ] netcdf
+[ ] netdata
+[ ] netpbm
+[ ] newsboat
+[ ] nexus
+[ ] nghttp2
+[x] nginx
+[ ] ngspice
+[ ] nifi
+[ ] nng
+[ ] nnn
+[x] node
+[x] node-build
+[ ] node@6
+[ ] node@8
+[ ] nodeenv
+[ ] nsd
+[ ] nss
+[ ] numpy
+[ ] nyx
+[ ] ocaml
+[ ] ocaml-num
+[ ] ocamlbuild
+[ ] ocamlsdl
+[ ] ocrmypdf
+[ ] octave
+[ ] odpi
+[ ] opam
+[ ] open-mpi
+[ ] open-scene-graph
+[ ] openapi-generator
+[ ] opencascade
+[ ] opencoarrays
+[ ] opencv@2
+[ ] openfortivpn
+[ ] openimageio
+[ ] openrct2
+[ ] openrtsp
+[ ] openshift-cli
+[ ] openssh
+[ ] openssl
+[ ] openssl@1.1
+[ ] openvdb
+[ ] opus
+[ ] opus-tools
+[ ] opusfile
+[ ] osm2pgrouting
+[ ] osquery
+[ ] osrm-backend
+[ ] oysttyer
+[ ] pacapt
+[ ] packer
+[ ] paket
+[ ] pandoc
+[ ] pandoc-citeproc
+[ ] pangomm
+[ ] parallel
+[ ] parallelstl
+[ ] passenger
+[ ] passpie
+[ ] payara
+[ ] pazpar2
+[ ] pcl
+[ ] pdal
+[ ] pdfpc
+[ ] pdftoedn
+[ ] pdftoipe
+[ ] percol
+[ ] percona-server
+[ ] percona-server@5.6
+[ ] percona-toolkit
+[x] pgcli
+[ ] pgformatter
+[ ] pgroonga
+[ ] phoronix-test-suite
+[ ] php
+[ ] php-cs-fixer
+[ ] php@5.6
+[ ] php@7.0
+[ ] php@7.1
+[ ] phpunit
+[ ] picard-tools
+[ ] picat
+[ ] pijul
+[ ] pike
+[ ] pip-completion
+[ ] pipenv
+[ ] pius
+[ ] pktanon
+[ ] planck
+[ ] plantuml
+[ ] platformio
+[ ] pmd
+[ ] ponyc
+[ ] poppler
+[ ] portmidi
+[ ] posh
+[x] postgresql
+[ ] ppsspp
+[ ] pqiv
+[ ] pre-commit
+[ ] presto
+[ ] prettier
+[ ] primesieve
+[ ] prips
+[ ] prometheus
+[ ] proselint
+[ ] protobuf
+[ ] ps2eps
+[ ] pspg
+[ ] pulumi
+[ ] pumba
+[ ] purescript
+[ ] pwntools
+[ ] py2cairo
+[ ] py3cairo
+[ ] pyenv
+[ ] pygobject3
+[ ] pyinvoke
+[x] python
+[ ] python-markdown
+[ ] q
+[ ] qcli
+[ ] qmmp
+[ ] qt
+[ ] quicktype
+[ ] rabbitmq
+[ ] radare2
+[ ] rakudo-star
+[ ] rancher-cli
+[ ] range-v3
+[ ] rbspy
+[ ] rclone
+[ ] rdesktop
+[ ] re2
+[ ] rebar3
+[ ] recon-ng
+[x] redis
+[ ] redo
+[ ] remarshal
+[ ] restic
+[ ] restview
+[ ] rmlint
+[ ] rom-tools
+[ ] root
+[ ] roswell
+[ ] rst-lint
+[ ] rtags
+[x] ruby
+[ ] ruby-build
+[ ] ruby@2.3
+[ ] rust
+[ ] rustup-init
+[ ] s-search
+[ ] s3cmd
+[ ] safe
+[ ] sagittarius-scheme
+[x] sass/sass/sass
+[ ] sbcl
+[ ] sbt
+[ ] sbt@0.13
+[ ] scalaenv
+[ ] sceptre
+[ ] scipy
+[ ] scour
+[ ] scrcpy
+[ ] sdb
+[ ] sdcc
+[ ] sdl2
+[ ] sdl2_image
+[ ] sdl2_mixer
+[ ] sec
+[ ] selenium-server-standalone
+[ ] serverless
+[ ] sfcgal
+[ ] shadowsocks-libev
+[ ] shairport-sync
+[ ] shc
+[ ] shellcheck
+[ ] shfmt
+[ ] shibboleth-sp
+[ ] shocco
+[ ] shogun
+[ ] sile
+[ ] simple-amqp-client
+[ ] sip
+[ ] skaffold
+[ ] skafos
+[ ] sleuthkit
+[ ] smimesign
+[ ] snapcraft
+[ ] snappystream
+[ ] snapraid
+[ ] sngrep
+[ ] softhsm
+[x] sonarqube
+[ ] sops
+[ ] source-highlight
+[ ] source-to-image
+[ ] sourcekitten
+[ ] spades
+[ ] spdlog
+[ ] sphinx-doc
+[ ] spotbugs
+[ ] sqlcipher
+[ ] sqldiff
+[x] sqlite
+[ ] sqlite-analyzer
+[ ] sqlmap
+[ ] sqlparse
+[ ] sratoolkit
+[ ] ssh-copy-id
+[ ] sshconfigfs
+[ ] sshuttle
+[ ] sslmate
+[ ] sslscan
+[ ] statik
+[ ] stern
+[ ] stgit
+[ ] stockfish
+[ ] stormpath-cli
+[ ] stormssh
+[ ] streamlink
+[ ] stubby
+[ ] sundials
+[ ] suricata
+[ ] svtplay-dl
+[ ] swagger-codegen
+[x] swift
+[ ] swift-protobuf
+[ ] swiftformat
+[ ] swiftlint
+[ ] swimat
+[ ] sync_gateway
+[ ] syncthing
+[ ] sysdig
+[ ] tarantool
+[ ] tarsnapper
+[ ] tbb
+[ ] tcpreplay
+[ ] tectonic
+[ ] telegraf
+[ ] teleport
+[ ] tepl
+[ ] termius
+[ ] termrec
+[ ] terraform
+[ ] terraform_landscape
+[ ] terraform-docs
+[ ] terragrunt
+[ ] tesseract
+[ ] testssl
+[ ] tgui
+[ ] thefuck
+[ ] theharvester
+[ ] thors-serializer
+[ ] tika
+[ ] tile38
+[ ] tinc
+[ ] tinyproxy
+[ ] tinyxml2
+[ ] tippecanoe
+[ ] tmux
+[ ] tmuxinator-completion
+[ ] tomcat
+[ ] tomcat@7
+[ ] tomcat@8
+[ ] topgrade
+[ ] tor
+[ ] tox
+[ ] traefik
+[ ] translate-toolkit
+[ ] trash-cli
+[ ] travis
+[ ] tree
+[ ] treefrog
+[ ] tty-solitaire
+[ ] ttyd
+[ ] tundra
+[ ] tunnel
+[ ] tup
+[ ] tvnamer
+[ ] twarc
+[ ] twine-pypi
+[ ] typescript
+[ ] ucloud
+[ ] uhd
+[ ] unbound
+[ ] uncrustify
+[ ] unoconv
+[ ] unshield
+[ ] upscaledb
+[ ] urdfdom_headers
+[ ] uriparser
+[ ] uru
+[ ] urweb
+[ ] v8
+[ ] vagrant-completion
+[ ] vala
+[ ] valgrind
+[ ] vapoursynth
+[ ] varnish
+[ ] vault
+[ ] vaulted
+[ ] vegeta
+[ ] vert.x
+[ ] vfuse
+[x] vim
+[ ] vim@7.4
+[ ] vips
+[ ] vnu
+[ ] voldemort
+[ ] vsts-cli
+[ ] vte3
+[ ] vtk
+[ ] wabt
+[ ] wakatime-cli
+[ ] wallpaper
+[ ] wartremover
+[ ] watchman
+[ ] watson
+[ ] wcslib
+[ ] weaver
+[ ] webp
+[x] webpack
+[ ] weechat
+[ ] wesnoth
+[ ] wget
+[ ] when
+[ ] whois
+[ ] widelands
+[ ] wine
+[ ] winetricks
+[ ] wireguard-go
+[ ] wireguard-tools
+[ ] wireshark
+[ ] wolfssl
+[ ] wskdeploy
+[ ] wtf
+[ ] wxmaxima
+[ ] xcodegen
+[ ] xctool
+[ ] xmake
+[ ] xml-tooling-c
+[ ] xmrig
+[ ] xonsh
+[ ] xsimd
+[ ] xtensor
+[ ] yaml-cpp
+[ ] yamllint
+[ ] yank
+[ ] yara
+[ ] yarn
+[ ] yasm
+[ ] yaz
+[ ] ydcv
+[ ] ykman
+[ ] yle-dl
+[ ] yosys
+[ ] you-get
+[x] youtube-dl
+[ ] yq
+[ ] z3
+[ ] zanata-client
+[ ] zebra
+[ ] zimg
+[x] zookeeper
+[ ] zorba
+[x] zsh
+[x] zsh-autosuggestions
+[x] zsh-completions
+[ ] zstd
